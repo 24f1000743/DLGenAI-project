@@ -30,8 +30,8 @@ DLGenAI-project/
 ## 🤖 Models
 | Model | Type | Macro F1 |
 |-------|------|----------|
-| CNNGenre | From Scratch | ~0.45 |
-| AST | Pretrained Transformer | 0.80+ |
+| CNNGenre | From Scratch | ~0.56|
+| AST | Pretrained Transformer | 0.78+ |
 | ResNet18 | Pretrained (ImageNet) | 0.81+ ✅ |
 
 ---
