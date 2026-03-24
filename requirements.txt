@@ -1,0 +1,14 @@
+torch
+torchaudio
+torchvision
+librosa
+soundfile
+transformers
+wandb
+huggingface_hub
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+gradio
