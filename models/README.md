@@ -1,9 +1,10 @@
-# 📦 Models
+# Models
 
-Model weights are hosted externally due to GitHub file size limits (25MB).
+| Model | Size | Location |
+|-------|------|----------|
+| CNN from Scratch | 1.58MB | This folder |
+| ResNet18 | 44MB | This folder |
+| AST | 320MB | Kaggle Dataset: ast-weights |
 
-| Model | Location | Size |
-|-------|----------|------|
-| ResNet18 (best) | [HuggingFace Hub](https://huggingface.co/24f1000743/messy-mashup-resnet-genre) | 44MB |
-| CNN Scratch | Kaggle Dataset: `cnn-scratch-weights` | 1.58MB |
-| AST | Kaggle Dataset: `ast-weights` | 320MB |
+ResNet18 also available on HuggingFace:
+https://huggingface.co/24f1000743/messy-mashup-resnet-genre
