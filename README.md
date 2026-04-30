@@ -17,8 +17,6 @@ The task is to classify noisy audio mashups into 10 genres using deep learning.
 ```bash
 pip install -r requirements.txt
 Links
-Kaggle: https://www.kaggle.com/code/ds24f1000743/dl-24f1000743-notebook-t12026
-W&B: https://wandb.ai/24f1000743-iit-madras/dlgenai-project
 HuggingFace: https://huggingface.co/24f1000743/messy-mashup-resnet-genre
 Demo: https://huggingface.co/spaces/24f1000743/messy-mashup-genre-classifier
 ---
